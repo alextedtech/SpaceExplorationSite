@@ -23,10 +23,15 @@ body{
 }
 
 .underline{
+    padding-bottom: 2px;
     border-bottom: 4px solid white;
 }
 
 #main-logo{
     width: 225px;
     padding: 0;
+}
+
+h1{
+    text-shadow: 5px 5px 4px black;
 }
